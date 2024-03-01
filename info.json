@@ -1,11 +1,11 @@
 {
   "name": "QOLife_",
-  "version": "6.6.9",
+  "version": "6.9.9",
   "title": "QOLife",
   "author": "srfrogui",
   "description": "Modpack Quality of Life check dependencies",
   "contact": "https://github.com/srfrogui/_qol",
-  "homepage": "https://mods.factorio.com/mod/_qolife",
+  "homepage": "https://mods.factorio.com/mod/QOLife_",
   "factorio_version": "1.1",
   "dependencies": [
     "AutoDeconstruct >= 0.3.12",
